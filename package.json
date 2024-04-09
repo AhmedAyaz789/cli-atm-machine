@@ -1,0 +1,24 @@
+{
+  "name": "ayazahmed-cli-atm-machine",
+  "version": "1.0.0",
+  "description": "This is a simple CLI ATM Machine Created using TypeScript.",
+  "main": "atm.js",
+  "type": "module",
+  "bin": "atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ATM",
+    "Machine",
+    "CLI_ATM_MACHINE"
+  ],
+  "author": "Ayaz Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
